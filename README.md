@@ -11,9 +11,9 @@
 <a href="https://www.tiktok.com/@andy._891/#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/bc79ertus2d0ykcqtd6t4nrol?si=e9f7fa8f9e3f4a8f/#" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivysonbandeiraa?igshid=OGQ5ZDc2ODk2ZA==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
-![lucasitocrybaby GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyson855&show_icons=true&theme=radical)
+![lucasitocrybaby GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasitocrybaby&show_icons=true&theme=radical)
 
 
           
