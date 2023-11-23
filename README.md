@@ -1,9 +1,9 @@
 # nada-3
 
-### *Olá, me chamo João Lucas; eu sou super caridoso e amo ser humilde!💋*
+### *Olá, me chamo João Lucas; eu sou super caridoso e amo ser humilde com os seres inferiores💋*
 
--  ✩  Estudante de Desenvolvimento de sistemas 1/3
--  ✩  Sala 04
+- 🥀 Estudante de Desenvolvimento de sistemas 1/3
+- 🥀 Sala 04
 #
 <img align="center" alt="Andrea-C" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 
